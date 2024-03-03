@@ -38,7 +38,7 @@ R's tidyverse.
 
 
 
-3. With that background we will tackle our exploration of Snakemake's use of
+3. With that background we will tackle our exploration of Snakemake's use of (end of sentence missing here)
   - YAML-based configuration files (i.e., config.yaml)
   - Input functions for converting wildcard values to specialized input paths or
     parameter values.
@@ -120,7 +120,7 @@ However, if you are on Alpine, your conda library would probably be in `/project
 
 While on my RStudio Server session on Alpine I would do:
 ```r
-use_condaenv(condaenv = "/projects/eriq@colostate.edu/miniforge3/envs/snakemake-8.5.3")
+use_condaenv(condaenv = "/projects/eriq@colostate.edu/mambaforge/envs/snakemake-8.5.3")
 ```
 At any rate, it should be easy to find the path to your snakemake environment
 using tab-completion for path names in your R console.
