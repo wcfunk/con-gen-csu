@@ -184,7 +184,7 @@ Note, to get out of the python REPL loop, you can type:
 ```
 exit
 ```
-which will drop you hack into R.
+which will drop you back into R.
 
 
 ## R and Python: compare and contrast
